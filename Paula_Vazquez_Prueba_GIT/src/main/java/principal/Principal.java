@@ -11,6 +11,8 @@ public class Principal {
 		System.out.println("Añado funcionalidades a mi programa dificilísimo");
 		
 		System.out.println("Estoy muy contenta con mi programa dificilísimo");
+		
+		System.out.println("Versión GitHub");
 	}
 
 }
